@@ -46,6 +46,10 @@ h3 {
   text-transform: capitalize;
 }
 
+.primary-link:hover {
+  color: #e7e6fc;
+}
+
 .about-link {
   color: var(--primary-color);
   border: 1px solid var(--primary-color);
